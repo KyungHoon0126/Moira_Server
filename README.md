@@ -4,6 +4,6 @@
 ## Stack
 ||Android|Server|iOS|
 |:-----------:|:-----:|:-----:|:-----:|
-|Development People|박진|최진우|이영은|
+|Development People|박진|김경훈|이영은|
 |Development Language|Kotlin|C#|Swift|
 |Development Tool|Android Studio|Visual Studio|Xcode|
