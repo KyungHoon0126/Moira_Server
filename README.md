@@ -6,4 +6,4 @@
 |:-----------:|:-----:|:-----:|:-----:|
 |Development People|박진|김경훈|이영은|
 |Development Language|Kotlin|C#|Swift|
-|Development Tool|Android Studio|Visual Studio|Xcode|
+|Development Tool|Intellij|Visual Studio|Xcode|
