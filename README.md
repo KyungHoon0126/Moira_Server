@@ -6,4 +6,4 @@
 |:-----------:|:-----:|:-----:|:-----:|
 |Development People|박진|최진우|이영은|
 |Development Language|Kotlin|C#|Swift|
-|Development Tool|Android Studio|Visual Studio Code|WPF, UWP, Visual Studio 2019|
+|Development Tool|Android Studio|Visual Studio|Xcode|
