@@ -1,4 +1,4 @@
-# Moira
+# Moira 👨‍👩‍👦‍👦
 꼭 마음 맞는 사람끼리가 아니라 여러 사람들과 프로젝트를 할 수 있도록, 많은 친구·후배·선배들과 함께 공부를 할 수 있도록 도와주는 서비스 입니다.
 
 > Project Target : Worker, Student<br/>
@@ -38,3 +38,7 @@
 
 ## Blog
 - 네이버 블로그 <a href ="https://blog.naver.com/kkh03kkh/222087025172" target ="_blank" title ="대구소프트웨어고등학교 2020 여름 해커톤">2020 대구소프트웨어고등학교 여름 해커톤</a>
+
+## Platform
+- <a href="https://github.com/PROJECT-MOIRA/Moira_Android">Moira_Android</a>
+- <a href="https://github.com/PROJECT-MOIRA/Moira_iOS">Moira_iOS</a>
