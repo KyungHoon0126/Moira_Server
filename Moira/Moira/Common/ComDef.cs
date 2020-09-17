@@ -9,7 +9,7 @@ namespace Moira.Common
         public static JWTContainerModel jWTContainerModel = new JWTContainerModel();
         public static JWTService jwtService = new JWTService(jWTContainerModel.SecretKey);
 
-        public static readonly string DATA_BASE_URL = $"SERVER=localhost;DATABASE=Moira;UID=root;PASSWORD=#kkh03kkh#;allow user variables=true";
+        public static readonly string DATA_BASE_URL = $"SERVER=localhost;DATABASE=;UID=root;PASSWORD=;allow user variables=true";
 
         /// <summary>
         /// Sort data indexes after insert, delete execution
